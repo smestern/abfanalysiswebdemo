@@ -1,5 +1,0 @@
-numpy
-os
-pyabf
-ipfx
-voila

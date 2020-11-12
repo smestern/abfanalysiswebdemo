@@ -6,3 +6,4 @@ jupyterlab
 pyabf
 ipfx
 voila
+voila-material
