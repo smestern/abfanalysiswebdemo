@@ -1,1 +1,1 @@
-web: voila abfanalysis.ipynb --enable_nbextensions=True —-port=$PORT —-no-browser
+web: voila —-port=$PORT —-no-browser
