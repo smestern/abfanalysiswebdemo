@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True abfanalysis.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True --debug abfanalysis.ipynb
