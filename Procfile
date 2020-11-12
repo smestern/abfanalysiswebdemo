@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser abfanalysis.ipynb
+web: voila abfanalysis.ipynb —-port=$PORT —-no-browser
