@@ -181,7 +181,6 @@ pyknos==0.13.1
 pylint==2.5.2
 pynrrd==0.4.0
 pynwb==1.0.2
-pyodbc==4.0.27
 pyOpenSSL==19.0.0
 pyparsing==2.4.7
 pyqtgraph==0.11.0
@@ -239,7 +238,6 @@ spikefeatures==0.1.1
 spikemetrics==0.2.0
 spikesorters==0.3.2
 spiketoolkit==0.6.3
-spyks==0.6.9
 statsmodels==0.9.0
 sympy==1.6.2
 tables==3.5.1
@@ -255,7 +253,6 @@ tornado==6.1
 tqdm==4.50.2
 traitlets==5.0.5
 traittypes==0.2.1
-tsfresh==0.16.0
 typed-ast==1.4.1
 typing-extensions==3.7.4.1
 tzlocal==2.1
