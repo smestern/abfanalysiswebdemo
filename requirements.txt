@@ -115,7 +115,6 @@ marshmallow==2.20.5
 matplotlib==3.3.0
 mccabe==0.6.1
 mistune==0.8.4
-mkl-random==1.1.1
 mkl-service==2.3.0
 more-itertools==7.2.0
 mpmath==1.1.0
@@ -132,7 +131,6 @@ ndx-grayscalevolume==0.0.2
 ndx-icephys-meta==0.1.0
 neo==0.8.0
 nest-asyncio==1.4.2
-neuroanalysis==0.0.1
 nflows==0.13
 nltk==3.4.5
 nodejs==0.1.1
