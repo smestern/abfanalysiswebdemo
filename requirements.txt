@@ -7,3 +7,4 @@ pyabf
 ipfx
 voila
 voila-material
+ipympl
