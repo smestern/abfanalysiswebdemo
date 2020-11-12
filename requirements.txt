@@ -68,7 +68,6 @@ google-pasta==0.2.0
 grpcio==1.31.0
 hdmf==1.1.2
 HeapDict==1.0.1
-herdingspikes==0.3.7
 hiplot==0.1.18
 idna==2.10
 importlib-metadata==2.0.0
