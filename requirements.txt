@@ -8,3 +8,4 @@ ipfx
 voila
 voila-material
 ipympl
+guppy3
